@@ -1,0 +1,42 @@
+.golfers-img {
+  height:75px;
+  width: auto;
+}
+
+.golfers-name {
+    font-family: 'Special Elite', cursive;
+    font-size: 22px;
+}
+
+.golfers-username {
+    font-family: 'Special Elite', cursive;
+    font-size: 15px;
+    color: grey;
+}
+
+.golfers-desc {
+    font-family: 'Special Elite', cursive;
+    font-size: 15px;
+    color: black;
+}
+
+.golfers-well {
+    position: relative;
+    height: 200px;
+}
+
+.close-x:before {
+    content: 'X';
+}
+
+.close-x {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    margin-right:15px;
+    margin-top:10px;
+    font-size: 20px;
+    color: red;
+    font-family: 'Special Elite', cursive;
+}

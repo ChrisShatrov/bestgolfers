@@ -1,0 +1,38 @@
+.add-golfer-modal-header {
+    font-family: 'Special Elite', cursive;
+    font-size: 22px;
+}
+
+.add-new-golfer-modal-add-button {
+  width: 100%;
+  background: #337ab7;
+  color: white;
+}
+
+.add-new-golfer-modal-add-button:hover {
+    width: 100%;
+    background: #286090;
+    color: white;
+}
+
+.add-new-golfer-modal-form {
+    font-family: 'Special Elite', cursive;
+    font-size: 16px;
+}
+
+.form-label {
+    text-align: left !important;
+}
+
+.field-error {
+  border: 1px solid red;
+}
+
+.general-form-error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.hideThis {
+    display: none;
+}
